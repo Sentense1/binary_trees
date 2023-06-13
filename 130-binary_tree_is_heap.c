@@ -1,4 +1,5 @@
 #include "binary_trees.h"
+#include <climits.h>
 
 /**
  * enqueue_item_2 - Adds an item to a queue.
